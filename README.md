@@ -4,4 +4,4 @@
 
 ### Features
 - Get Data From Server
-- Add New Employeess
+- Add New Employees
