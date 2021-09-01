@@ -4,5 +4,6 @@
 
 ### Features
 - Get Data From Server
-- Add New Employees
-- Delete Employees
+- Add New Employees [❎]
+- Delete Employees [ ✅ ] 
+
