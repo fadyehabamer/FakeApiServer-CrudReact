@@ -6,5 +6,5 @@
 - Get Data From Server ✅
 - Add New Employees ❎
 - Delete Employees ✅
-- Edit Employees [ ❎ ]
+- Edit Employees ❎
 
